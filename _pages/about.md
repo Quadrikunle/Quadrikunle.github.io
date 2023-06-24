@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Aregbesola Samuel"
+title: "Quadri Olakunle, BABATUNDE"
 excerpt: "My academic portfolio"
 author_profile: true
 redirect_from: 
