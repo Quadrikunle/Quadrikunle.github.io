@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Quadri Olakunle, BABATUNDE"
+title: "Quadri O. BABATUNDE"
 excerpt: "My academic portfolio"
 author_profile: true
 redirect_from: 
@@ -9,12 +9,6 @@ redirect_from:
 ---
 
 
-I am a highly motivated graduate researcher specializing in the field of xxxxx. With a strong passion for scientific exploration and discovery, I have dedicated my academic journey to unraveling the complexities of research in xxxxxxx. I hold a degree in xxxxxxx from the prestigious University of XYZ, where my groundbreaking research on xxxx earned me recognition and several accolades.
+Mr. BABATUNDE Quadri is a geotechnical engineer from Oyo State, Nigeria. He completed his Bachelor's in the Department of Agricultural and Biosystems Engineering with a focus on Soil and Water Engineering at the University of Ilorin. Mr. Babatunde gained practical experience through an internship in civil engineering and worked in a construction company before pursuing further studies. Driven by a commitment to sustainability, he pursued his MSc-PhD in Geotechnical Engineering at Kyungpook National University, South Korea. His research objective was to develop eco-friendly cementitious materials, and he presented his findings at various conferences and published scientific papers.  
 
-
-Throughout my academic career, I have actively engaged in collaborative research projects and demonstrated exceptional analytical and problem-solving skills. My expertise in xxx, including xxxx, xxxx, and xxxx modeling, has allowed him to contribute significantly to his research group. I have also gained valuable experience in data analysis and interpretation, using advanced software and statistical tools to derive meaningful insights from complex datasets.
-
-
-Committed to advancing scientific knowledge, I have presented his research findings at national and international conferences, fostering productive discussions and expanding scientific networks. My dedication to sharing knowledge extends to mentoring undergraduate students, where I guide them in experimental design and data analysis. My ultimate goal is to pursue a Ph.D. in xxxx, with a focus on investigating novel xxxx targets for xxxx , aiming to contribute to the development of innovative xxx that improve xxxxx.
-
-When I am not studying, I watch football and do xxxx. Feel free to contact me on any of the platforms you prefer. I am open to collaborating.
+His expertise encompasses geophysics, soil mechanics, soil cementation, biopolymer applications, and data analysis. His proficiency and passion for sustainable solutions have earned him recognition as a valuable research assistant in the esteemed Geotechnical and Geoenvironmental Lab at Kyungpook University. Additionally, he has actively engaged with the academic community, reviewing papers for prestigious publishers like Elsevier. Mr. BABATUNDE is a member of several prestigious engineering societies, including the NSE, ASCE, and GI. Mr. BABATUNDE's exceptional dedication and passion for sustainable geotechnical infrastructure have earned him recognition within the engineering community. His work continues to impact the field's advancement and future development significantly.
