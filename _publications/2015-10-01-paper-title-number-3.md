@@ -1,15 +1,30 @@
 ---
-title: "Paper Title Number 3"
+title: "Soil Stabilization Using Zein Biopolymer"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+excerpt: 'This study
+investigates the cementation effect of a novel zein biopolymer binder on sandy soils.'
+date: 2023-01-21
+venue: 'Sustainability'
+paperurl: 'https://doi.org/10.3390/su15032075'
+citation: 'Babatunde, Q. O., & Byun, Y. H. (2023). Soil Stabilization Using Zein Biopolymer.  <i>Sustainability </i>.  15(3), 2075.'
 ---
-This paper is about the number 3. The number 4 is left for future work.
+## Abstract
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
+The characterization and analysis of the cementation properties of novel biopolymer
+binders in soils are essential for their potential application in geotechnical engineering. This study
+investigates the cementation effect of a novel zein biopolymer binder on sandy soils. Soil specimens
+are mixed with various contents of zein biopolymer ranging from 0 to 5%. The mechanical and
+microscopic characteristics of the treated specimens are evaluated using unconﬁned compression tests
+and scanning electron microscopy, respectively, after curing for 3, 7, and 28 days. The results show
+a consistent increase in compressive strength and elastic modulus of treated soils with increasing
+curing periods and biopolymer contents. A small amount (1%) of zein biopolymer increases soil
+strength and elasticity regardless of gradation. Additionally, the bonding force between the soil–zein
+biopolymer increases linearly with soil uniformity. Therefore, the application of zein biopolymer
+can be potentially used as a binder for ﬁne- and coarse-grained soils in geotechnical engineering
+considering its stabilization and sustainability properties.
 
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+
+[Click to download paper](https://doi.org/10.3390/su15032075)
+
+Recommended citation: Babatunde, Q. O., & Byun, Y. H. (2023). Soil Stabilization Using Zein Biopolymer.  <i>Sustainability </i>.  15(3), 2075.
