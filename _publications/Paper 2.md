@@ -1,7 +1,7 @@
 ---
 title: "Rheological behavior of zein biopolymer and stiffness characteristic of biopolymer treated soil"
 collection: publications
-permalink: /publication/2023-002-Rheological-behavior-of-zein-biopolymer-and-stiffness-characteristic-of-biopolymer-treated-soil"
+permalink: "/publication/2023-002-Rheological-behavior-of-zein-biopolymer-and-stiffness-characteristic-of-biopolymer-treated-soil"
 collection: publications
 excerpt: 'This study presents the rheological behaviors of eco-friendly zein biopolymer and stiffness char­
 acteristics of biopolymer-treated soil under various solvent and curing conditions..'
