@@ -11,22 +11,22 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2018
-* M.S. in Jekyll, GitHub University, 2021
-* Ph.D in Version Control Theory, GitHub University, 2024 (expected)
+* B.Eng. in Agricultural and Biosystems Engineering, University of Ilorin, 2019
+* M.S. in Geotechnical, Kyungpook National University, 2023 (expected)
+* Ph.D in Version Control Theory, Kyungpook National University, 2025 (expected)
 
 Work experience
 ======
-* Summer 2021: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2018: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+* 2021-Present: Research Assistant
+  *Kyungpook National University, South Korea
+  * Duties included: Experimental studies and Scientific paper writting
+  * Supervisor: Professor YH Byun
+
+* 2019-2021: Project manager
+  *Acusapare, Nigeria
+  * Duties included: construction supervision and procurement
+
 Skills
 ======
 * Skill 1
