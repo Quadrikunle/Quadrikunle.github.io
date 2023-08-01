@@ -12,8 +12,8 @@ redirect_from:
 Education
 ======
 * B.Eng. in Agricultural and Biosystems Engineering, University of Ilorin, 2019
-* M.S. in Geotechnical, Kyungpook National University, 2023 (expected)
-* Ph.D in Version Control Theory, Kyungpook National University, 2025 (expected)
+* M.S. in Geotechnical Engineering, Kyungpook National University, 2023 (expected)
+* Ph.D in Geotechnical Engineering, Kyungpook National University, 2025 (expected)
 
 Work experience
 ======
@@ -24,8 +24,27 @@ Work experience
   * Supervisor: Professor YH Byun
 
 * 2019-2021: Project manager
-  *Acusapare, Nigeria
-  * Duties included: construction supervision and procurement
+  *Acusapare Projects and Engineering Services Limited, Nigeria
+  * Duties included:
+    -Construction supervision and procurement
+    - Design of pipe work using CAD 
+
+Internship
+======
+
+* Mar 2017 -  Aug 2017: Intern
+  *Ministry of Works, Oyo, Nigeria
+  * Project:Construction of 30 km flexible pavement
+  * Duties included: Experimental studies and Scientific paper writting
+    •	Supervise and management of artisans on construction site
+    •	Design and execution of project plan on the site
+
+* March 2018 – June 2018: Intern
+  *Acusapare Projects and Engineering Services Limited, Nigeria
+  * Duties included:
+    •	Sampling of different soil specimen
+    •	Analysis of various soil specimen gradations
+    •	Soil testing and classification
 
 Skills
 ======
