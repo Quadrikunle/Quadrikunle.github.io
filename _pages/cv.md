@@ -34,14 +34,14 @@ Internship
 ======
 
 * March 2018 – June 2018: Intern
-  *Acusapare Projects and Engineering Services Limited, Nigeria
+  * College of Agriculture, Nigeria
   * Duties included:
     * Sampling of different soil specimen
     * Analysis of various soil specimen gradations
     * Soil testing and classification
 
 * Mar 2017 -  Aug 2017: Intern
-  *Ministry of Works, Oyo, Nigeria
+  * Ministry of Works, Oyo, Nigeria
   * Project:Construction of 30 km flexible pavement
   * Duties included: Experimental studies and Scientific paper writting
     *	Supervise and management of artisans on construction site
