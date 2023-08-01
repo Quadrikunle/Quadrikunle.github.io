@@ -1,7 +1,7 @@
 ---
 title: "Soil Stabilization Using Zein Biopolymer"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
+permalink: /publication/2023-01-21-Soil-Stabilization-Using-Zein-Biopolymer
 excerpt: 'This study
 investigates the cementation effect of a novel zein biopolymer binder on sandy soils.'
 date: 2023-01-21
