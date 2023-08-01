@@ -33,19 +33,22 @@ Work experience
 Internship
 ======
 
-* Mar 2017 -  Aug 2017: Intern
-  *Ministry of Works, Oyo, Nigeria
-  * Project:Construction of 30 km flexible pavement
-  * Duties included: Experimental studies and Scientific paper writting
-    *	Supervise and management of artisans on construction site
-    *	Design and execution of project plan on the site
-
 * March 2018 – June 2018: Intern
   *Acusapare Projects and Engineering Services Limited, Nigeria
   * Duties included:
     * Sampling of different soil specimen
     * Analysis of various soil specimen gradations
     * Soil testing and classification
+
+* Mar 2017 -  Aug 2017: Intern
+  *Ministry of Works, Oyo, Nigeria
+  * Project:Construction of 30 km flexible pavement
+  * Duties included: Experimental studies and Scientific paper writting
+    *	Supervise and management of artisans on construction site
+    *	Design and execution of project plan on the site
+      
+* July 2016 - September 2016
+    * University of ilorin Student Work Experience Programme (SWEP) 
 
 Skills
 ======
